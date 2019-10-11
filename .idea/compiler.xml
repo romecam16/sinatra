@@ -9,5 +9,8 @@
         <module name="sinatra" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sinatra" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
